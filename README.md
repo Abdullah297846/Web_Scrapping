@@ -1,2 +1,2 @@
 # Web_Scrapping
-Web Scrapping using beautiful soap
+Web Scrapping using beautiful soup
